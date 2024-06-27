@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Customer Management CRUD Application(ASP.NET).props" />
+</Project>

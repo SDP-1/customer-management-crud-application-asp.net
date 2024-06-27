@@ -1,0 +1,68 @@
+D:\Selef Project\Customer Management CRUD Application(ASP.NET)\bin\Debug\net8.0\appsettings.Development.json
+D:\Selef Project\Customer Management CRUD Application(ASP.NET)\bin\Debug\net8.0\appsettings.json
+D:\Selef Project\Customer Management CRUD Application(ASP.NET)\bin\Debug\net8.0\Customer Management CRUD Application(ASP.NET).staticwebassets.runtime.json
+D:\Selef Project\Customer Management CRUD Application(ASP.NET)\bin\Debug\net8.0\Customer Management CRUD Application(ASP.NET).exe
+D:\Selef Project\Customer Management CRUD Application(ASP.NET)\bin\Debug\net8.0\Customer Management CRUD Application(ASP.NET).deps.json
+D:\Selef Project\Customer Management CRUD Application(ASP.NET)\bin\Debug\net8.0\Customer Management CRUD Application(ASP.NET).runtimeconfig.json
+D:\Selef Project\Customer Management CRUD Application(ASP.NET)\bin\Debug\net8.0\Customer Management CRUD Application(ASP.NET).dll
+D:\Selef Project\Customer Management CRUD Application(ASP.NET)\bin\Debug\net8.0\Customer Management CRUD Application(ASP.NET).pdb
+D:\Selef Project\Customer Management CRUD Application(ASP.NET)\obj\Debug\net8.0\Customer Management CRUD Application(ASP.NET).GeneratedMSBuildEditorConfig.editorconfig
+D:\Selef Project\Customer Management CRUD Application(ASP.NET)\obj\Debug\net8.0\Customer Management CRUD Application(ASP.NET).AssemblyInfoInputs.cache
+D:\Selef Project\Customer Management CRUD Application(ASP.NET)\obj\Debug\net8.0\Customer Management CRUD Application(ASP.NET).AssemblyInfo.cs
+D:\Selef Project\Customer Management CRUD Application(ASP.NET)\obj\Debug\net8.0\Customer Management CRUD Application(ASP.NET).csproj.CoreCompileInputs.cache
+D:\Selef Project\Customer Management CRUD Application(ASP.NET)\obj\Debug\net8.0\Customer Management CRUD Application(ASP.NET).MvcApplicationPartsAssemblyInfo.cache
+D:\Selef Project\Customer Management CRUD Application(ASP.NET)\obj\Debug\net8.0\Customer Management CRUD Application(ASP.NET).RazorAssemblyInfo.cache
+D:\Selef Project\Customer Management CRUD Application(ASP.NET)\obj\Debug\net8.0\Customer Management CRUD Application(ASP.NET).RazorAssemblyInfo.cs
+D:\Selef Project\Customer Management CRUD Application(ASP.NET)\obj\Debug\net8.0\staticwebassets.build.json
+D:\Selef Project\Customer Management CRUD Application(ASP.NET)\obj\Debug\net8.0\staticwebassets.development.json
+D:\Selef Project\Customer Management CRUD Application(ASP.NET)\obj\Debug\net8.0\staticwebassets\msbuild.Customer Management CRUD Application(ASP.NET).Microsoft.AspNetCore.StaticWebAssets.props
+D:\Selef Project\Customer Management CRUD Application(ASP.NET)\obj\Debug\net8.0\staticwebassets\msbuild.build.Customer Management CRUD Application(ASP.NET).props
+D:\Selef Project\Customer Management CRUD Application(ASP.NET)\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Customer Management CRUD Application(ASP.NET).props
+D:\Selef Project\Customer Management CRUD Application(ASP.NET)\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Customer Management CRUD Application(ASP.NET).props
+D:\Selef Project\Customer Management CRUD Application(ASP.NET)\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Selef Project\Customer Management CRUD Application(ASP.NET)\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\Selef Project\Customer Management CRUD Application(ASP.NET)\obj\Debug\net8.0\scopedcss\bundle\Customer Management CRUD Application(ASP.NET).styles.css
+D:\Selef Project\Customer Management CRUD Application(ASP.NET)\obj\Debug\net8.0\scopedcss\projectbundle\Customer Management CRUD Application(ASP.NET).bundle.scp.css
+D:\Selef Project\Customer Management CRUD Application(ASP.NET)\obj\Debug\net8.0\Customer Management CRUD Application(ASP.NET).dll
+D:\Selef Project\Customer Management CRUD Application(ASP.NET)\obj\Debug\net8.0\refint\Customer Management CRUD Application(ASP.NET).dll
+D:\Selef Project\Customer Management CRUD Application(ASP.NET)\obj\Debug\net8.0\Customer Management CRUD Application(ASP.NET).pdb
+D:\Selef Project\Customer Management CRUD Application(ASP.NET)\obj\Debug\net8.0\Customer Management CRUD Application(ASP.NET).genruntimeconfig.cache
+D:\Selef Project\Customer Management CRUD Application(ASP.NET)\obj\Debug\net8.0\ref\Customer Management CRUD Application(ASP.NET).dll
+D:\Selef Project\Customer Management CRUD Application(ASP.NET)\obj\Debug\net8.0\Customer Management CRUD Application(ASP.NET).csproj.AssemblyReference.cache
+D:\Selef Project\Customer Management CRUD Application(ASP.NET)\bin\Debug\net8.0\Azure.Core.dll
+D:\Selef Project\Customer Management CRUD Application(ASP.NET)\bin\Debug\net8.0\Azure.Identity.dll
+D:\Selef Project\Customer Management CRUD Application(ASP.NET)\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Selef Project\Customer Management CRUD Application(ASP.NET)\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Selef Project\Customer Management CRUD Application(ASP.NET)\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Selef Project\Customer Management CRUD Application(ASP.NET)\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Selef Project\Customer Management CRUD Application(ASP.NET)\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Selef Project\Customer Management CRUD Application(ASP.NET)\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Selef Project\Customer Management CRUD Application(ASP.NET)\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Selef Project\Customer Management CRUD Application(ASP.NET)\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Selef Project\Customer Management CRUD Application(ASP.NET)\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Selef Project\Customer Management CRUD Application(ASP.NET)\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Selef Project\Customer Management CRUD Application(ASP.NET)\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Selef Project\Customer Management CRUD Application(ASP.NET)\bin\Debug\net8.0\System.ClientModel.dll
+D:\Selef Project\Customer Management CRUD Application(ASP.NET)\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Selef Project\Customer Management CRUD Application(ASP.NET)\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Selef Project\Customer Management CRUD Application(ASP.NET)\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Selef Project\Customer Management CRUD Application(ASP.NET)\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Selef Project\Customer Management CRUD Application(ASP.NET)\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Selef Project\Customer Management CRUD Application(ASP.NET)\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\Selef Project\Customer Management CRUD Application(ASP.NET)\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\Selef Project\Customer Management CRUD Application(ASP.NET)\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Selef Project\Customer Management CRUD Application(ASP.NET)\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\Selef Project\Customer Management CRUD Application(ASP.NET)\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Selef Project\Customer Management CRUD Application(ASP.NET)\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Selef Project\Customer Management CRUD Application(ASP.NET)\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Selef Project\Customer Management CRUD Application(ASP.NET)\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Selef Project\Customer Management CRUD Application(ASP.NET)\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Selef Project\Customer Management CRUD Application(ASP.NET)\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Selef Project\Customer Management CRUD Application(ASP.NET)\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Selef Project\Customer Management CRUD Application(ASP.NET)\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Selef Project\Customer Management CRUD Application(ASP.NET)\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Selef Project\Customer Management CRUD Application(ASP.NET)\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Selef Project\Customer Management CRUD Application(ASP.NET)\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Selef Project\Customer Management CRUD Application(ASP.NET)\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Selef Project\Customer Management CRUD Application(ASP.NET)\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+D:\Selef Project\Customer Management CRUD Application(ASP.NET)\obj\Debug\net8.0\Customer.DD2F412D.Up2Date
