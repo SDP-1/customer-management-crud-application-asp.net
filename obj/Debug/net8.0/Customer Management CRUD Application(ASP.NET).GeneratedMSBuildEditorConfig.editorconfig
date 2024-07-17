@@ -18,6 +18,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\Selef Project\Customer Management CRUD Application(ASP.NET)
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/Selef Project/Customer Management CRUD Application(ASP.NET)/Pages/customers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY3VzdG9tZXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Selef Project/Customer Management CRUD Application(ASP.NET)/Pages/customers/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY3VzdG9tZXJzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
