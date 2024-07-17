@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Customer Management CRUD Application(ASP.NET)")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+00b54d8883002faac20b63d0c59fca29c32027f8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+786b24ba392171ee0f75cc7f31d498e30405ff79")]
 [assembly: System.Reflection.AssemblyProductAttribute("Customer Management CRUD Application(ASP.NET)")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Customer Management CRUD Application(ASP.NET)")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
