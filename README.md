@@ -25,6 +25,9 @@ This is a simple Customer Management application built using ASP.NET Core Razor 
 - Microsoft SQL Server
 - Visual Studio (recommended)
 
+### Contact
+For any inquiries or issues, please contact Your `sehandevinda1@gmail.com`.
+
 ## Sample screenshots
 
 ![Screenshot 2024-07-18 082623](https://github.com/user-attachments/assets/3c9ca9ec-5c0c-4751-9c8d-db5fc7121372)
